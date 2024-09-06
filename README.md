@@ -1,2 +1,2 @@
-Hello, Aslak
+Hello, Aslak & Peter
 Goodbye, World
